@@ -5,31 +5,3 @@
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 
-#广东联通部分的4K:m3u
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="4K超",广东卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226702/371164168.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF0b4KWe%2FIRdbiEb8SokWJtVGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371164167%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371164168%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="4K超",东方卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226691/371266902.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIFx2M0aMyK6zMum3gWrB81NpGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266901%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266902%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="4K超",北京卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226680/371059534.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=VDZkqe2wDG/DozHtN5Qt2rSqeZkQUG07rgE0zxej+vXlUY3cxzF4b4EdoFXUYfIFrZU17scXXfWzTQ5WGY4N6AWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj3,END&tenantId=8601
-
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="4K超",江苏卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226714/371266888.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF9VlHXqKSARWKoBip%2F%2FsPYdGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266887%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266888%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="4K超",浙江卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226717/371266855.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF96lAdHt7wSuHMZWesBR20hGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266854%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266855%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="4K超",深圳卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226683/371164180.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIFy%2B%2FkIAavci9z%2FLJPqxg7dZGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371164179%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371164180%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="4K超",湖南卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226686/371266843.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF4AclWfix7PWG49A8ZruedFGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266842%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266843%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="4K超",四川卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226689/371266867.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF%2F12%2BzV%2FNqzIIOihgu6DSEJGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266866%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266867%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="4K超",山东卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226694/371266914.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF6Yfz6vhWACWrMi2nukP%2Fk9GAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266913%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266914%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="4K超",深圳卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226683/371164180.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=BAu/5zTaVrkoGICQ1wEADu6V6NhLgGOptRgdVhrCQe7m9ZdRmhvNMrOvsUD5pWqRagl35Cq2uM1J4ThcF3xx0gH/EWyiXZ+X9W27D2TV7vWTPfznWbMXUWJ+TPvJfJCC,END&tenantId=8601
